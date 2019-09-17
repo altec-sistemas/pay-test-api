@@ -13,7 +13,7 @@
 - Filtrar a lista de cidades por latitude e longitude
 - Documentação
 - Desenvolvimento da api em Elixir
-- Desenvolvimento em mais uma linguagem à sua escolha preferenciamente funcional
+- Desenvolvimento em mais uma linguagem a sua escolha preferencialmente funcional
 
 ## Desenvolvimento
 
