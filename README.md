@@ -1,5 +1,5 @@
 # REGRAS GERAIS
-- O projeto deve ser desenvolvido em Elixir, Ruby
+- O projeto deve ser desenvolvido em Elixir, Ruby ou Node.js
 - Você pode usar quaisquer bibliotecas de terceiros ou frameworks
 
 ## Você deverá criar uma api de previsão de tempo onde os requisitos são:
