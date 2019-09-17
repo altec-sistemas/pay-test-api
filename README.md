@@ -9,11 +9,11 @@
 - Visualizar uma cidade X com o seu clima e filtrar o clima em um range de tempo Ex. (2017-03-12 até 2017-03-21)
 - Testes
 
-### Bonus
+### Bônus
 - Filtrar a lista de cidades por latitude e longitude
 - Documentação
 - Desenvolvimento da api em Elixir
-- Desenvolvimento em mais uma linguagem a sua escolha preferencialmente funcional
+- Desenvolvimento em mais uma linguagem a sua escolha, preferencialmente funcional
 
 ## Desenvolvimento
 
