@@ -1,6 +1,7 @@
 # REGRAS GERAIS
 - O projeto deve ser desenvolvido em Elixir, Ruby ou Node.js
 - Você pode usar quaisquer bibliotecas de terceiros ou frameworks
+- Seu projeto deve redar no docker
 
 ## Você deverá criar uma api de previsão de tempo onde os requisitos são:
 - Lista de cidades
@@ -8,10 +9,10 @@
 - Visualizar uma cidade X com o seu clima
 - Visualizar uma cidade X com o seu clima e filtrar o clima em um range de tempo Ex. (2017-03-12 até 2017-03-21)
 - Testes
+- Documentação
 
 ### Bônus
 - Filtrar a lista de cidades por latitude e longitude
-- Documentação
 - Desenvolvimento da api em Elixir
 - Desenvolvimento em mais uma linguagem a sua escolha, preferencialmente funcional
 
