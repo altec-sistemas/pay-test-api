@@ -1,7 +1,7 @@
 # REGRAS GERAIS
 - O projeto deve ser desenvolvido em Elixir, Ruby ou Node.js
 - Você pode usar quaisquer bibliotecas de terceiros ou frameworks
-- Seu projeto deve redar no docker
+- Seu projeto deve rodar com docker
 
 ## Você deverá criar uma api de previsão de tempo onde os requisitos são:
 - Lista de cidades
